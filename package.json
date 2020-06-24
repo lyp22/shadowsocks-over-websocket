@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/VincentChanX/shadowsocks-over-websocket/issues"
   },
+  "engines": {
+  "node": "10.x"
+  },
   "homepage": "https://github.com/VincentChanX/shadowsocks-over-websocket#readme",
   "dependencies": {
     "bufferutil": "^3.0.0",
